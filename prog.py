@@ -2,6 +2,6 @@
 #second comment
 #edited online
 #final comment
-for i in range(10):
-	print(i)
+#new version
+[print(i, end= ", ") for i in range(10)]
 print("End of program")
